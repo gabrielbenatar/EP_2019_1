@@ -25,7 +25,7 @@ def carregar_cenarios():
         "professor": {
             "titulo": "O monstro do Python",
             "descricao": "Voce foi pedir para o professor adiar o EP. "
-                         "O professor revelou que é um monstro disfarçado "
+                         "O professor revelou que é monstro disfarçado "
                          "e devorou sua alma.",
             "opcoes": {}
         },

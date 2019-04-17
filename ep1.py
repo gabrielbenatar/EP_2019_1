@@ -33,7 +33,7 @@ def carregar_cenarios():
             "titulo": "Caverna da tranquilidade",
             "descricao": "Voce esta na biblioteca",
             "opcoes": {
-                "inicio": "Voltar para o saguao de entrada"
+                "inicio": "Voltar para o saguao de entrada!"
             }
         }
     }
